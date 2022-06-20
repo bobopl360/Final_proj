@@ -1,0 +1,15 @@
+C:\Users\bobob\source\repos\Final_proj\Application_A\Application_A.DL\bin\Debug\net5.0\Application_A.DL.deps.json
+C:\Users\bobob\source\repos\Final_proj\Application_A\Application_A.DL\bin\Debug\net5.0\Application_A.DL.dll
+C:\Users\bobob\source\repos\Final_proj\Application_A\Application_A.DL\bin\Debug\net5.0\ref\Application_A.DL.dll
+C:\Users\bobob\source\repos\Final_proj\Application_A\Application_A.DL\bin\Debug\net5.0\Application_A.DL.pdb
+C:\Users\bobob\source\repos\Final_proj\Application_A\Application_A.DL\bin\Debug\net5.0\Application_A.Models.dll
+C:\Users\bobob\source\repos\Final_proj\Application_A\Application_A.DL\bin\Debug\net5.0\Application_A.Models.pdb
+C:\Users\bobob\source\repos\Final_proj\Application_A\Application_A.DL\obj\Debug\net5.0\Application_A.DL.csproj.AssemblyReference.cache
+C:\Users\bobob\source\repos\Final_proj\Application_A\Application_A.DL\obj\Debug\net5.0\Application_A.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobob\source\repos\Final_proj\Application_A\Application_A.DL\obj\Debug\net5.0\Application_A.DL.AssemblyInfoInputs.cache
+C:\Users\bobob\source\repos\Final_proj\Application_A\Application_A.DL\obj\Debug\net5.0\Application_A.DL.AssemblyInfo.cs
+C:\Users\bobob\source\repos\Final_proj\Application_A\Application_A.DL\obj\Debug\net5.0\Application_A.DL.csproj.CoreCompileInputs.cache
+C:\Users\bobob\source\repos\Final_proj\Application_A\Application_A.DL\obj\Debug\net5.0\Application_A.DL.csproj.CopyComplete
+C:\Users\bobob\source\repos\Final_proj\Application_A\Application_A.DL\obj\Debug\net5.0\Application_A.DL.dll
+C:\Users\bobob\source\repos\Final_proj\Application_A\Application_A.DL\obj\Debug\net5.0\ref\Application_A.DL.dll
+C:\Users\bobob\source\repos\Final_proj\Application_A\Application_A.DL\obj\Debug\net5.0\Application_A.DL.pdb

@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bobob\\source\\repos\\Final_proj\\Application_A\\Application_A.DL\\Application_A.DL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bobob\\source\\repos\\Final_proj\\Application_A\\Application_A.DL\\Application_A.DL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bobob\\source\\repos\\Final_proj\\Application_A\\Application_A.DL\\Application_A.DL.csproj",
+        "projectName": "Application_A.DL",
+        "projectPath": "C:\\Users\\bobob\\source\\repos\\Final_proj\\Application_A\\Application_A.DL\\Application_A.DL.csproj",
+        "packagesPath": "C:\\Users\\bobob\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bobob\\source\\repos\\Final_proj\\Application_A\\Application_A.DL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bobob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\bobob\\source\\repos\\Final_proj\\Application_A\\Application_A.Models\\Application_A.Models.csproj": {
+                "projectPath": "C:\\Users\\bobob\\source\\repos\\Final_proj\\Application_A\\Application_A.Models\\Application_A.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.15.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bobob\\source\\repos\\Final_proj\\Application_A\\Application_A.Models\\Application_A.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bobob\\source\\repos\\Final_proj\\Application_A\\Application_A.Models\\Application_A.Models.csproj",
+        "projectName": "Application_A.Models",
+        "projectPath": "C:\\Users\\bobob\\source\\repos\\Final_proj\\Application_A\\Application_A.Models\\Application_A.Models.csproj",
+        "packagesPath": "C:\\Users\\bobob\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bobob\\source\\repos\\Final_proj\\Application_A\\Application_A.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bobob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MessagePack.Annotations": {
+              "target": "Package",
+              "version": "[2.3.85, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

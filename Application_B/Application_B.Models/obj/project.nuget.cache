@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lQGFmvMmRMAcBCpHBB+yrdleGU1DVfql7w2Wrhsj9xyXNVDKVUGE9oo/RT3MBGkJM6gSBYQiePUXZqkdeRkxHg==",
+  "success": true,
+  "projectFilePath": "H:\\C#\\Final_proj\\Application_B\\Application_B.Models\\Application_B.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bobob\\.nuget\\packages\\messagepack\\2.3.85\\messagepack.2.3.85.nupkg.sha512",
+    "C:\\Users\\bobob\\.nuget\\packages\\messagepack.annotations\\2.3.85\\messagepack.annotations.2.3.85.nupkg.sha512"
+  ],
+  "logs": []
+}
